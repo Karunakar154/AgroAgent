@@ -1,0 +1,1270 @@
+AGROAGENT – GENERAL AGRICULTURE KNOWLEDGE BASE
+
+============================================================
+PURPOSE
+============================================================
+
+This document is the general agriculture knowledge source for AgroAgent.
+
+AgroAgent should use this knowledge base to answer general questions about:
+
+- crops
+- crop cultivation
+- sowing
+- planting
+- transplanting
+- soil
+- soil pH
+- NPK
+- fertilizers
+- irrigation
+- rainfall
+- weather effects on crops
+- weeds
+- pests
+- diseases
+- plant symptoms
+- crop growth stages
+- harvesting
+- post-harvest handling
+- storage
+- crop rotation
+- organic farming
+- farm management
+- general agricultural practices
+
+For current weather or farm-specific measurements, use the appropriate
+specialized tool instead of inventing values.
+
+For image-based disease identification, use the disease detection model
+when an image is available.
+
+For crop recommendation based on measured soil and weather information,
+use the crop recommendation model.
+
+============================================================
+1. GENERAL CROP CULTIVATION
+============================================================
+
+General crop cultivation normally follows these steps:
+
+1. Select a crop suitable for the region and season.
+2. Select a suitable variety.
+3. Check soil characteristics.
+4. Conduct a soil test when possible.
+5. Prepare the field.
+6. Select healthy seed or planting material.
+7. Treat seed when recommended.
+8. Sow or transplant at the appropriate time.
+9. Maintain suitable plant spacing.
+10. Provide appropriate irrigation.
+11. Apply nutrients according to soil and crop requirements.
+12. Control weeds.
+13. Monitor pests and diseases.
+14. Monitor crop growth.
+15. Take corrective action when problems are identified.
+16. Harvest at suitable maturity.
+17. Clean, grade and store the produce properly.
+
+============================================================
+2. CROP SELECTION
+============================================================
+
+Crop selection can depend on:
+
+- climate
+- temperature
+- rainfall
+- soil type
+- soil pH
+- water availability
+- growing season
+- crop duration
+- market demand
+- farmer resources
+- pest and disease risk
+
+A crop that performs well in one region may not perform equally well
+in another region.
+
+When recommending a crop using AgroAgent's crop model, measured soil
+and weather information should be used rather than invented values.
+
+============================================================
+3. SOIL
+============================================================
+
+Soil provides:
+
+- physical support
+- water
+- air
+- nutrients
+- a root environment
+
+Important soil properties include:
+
+- soil texture
+- soil structure
+- soil pH
+- organic matter
+- drainage
+- water-holding capacity
+- nutrient availability
+
+Common soil texture categories include:
+
+- sandy soil
+- clay soil
+- loamy soil
+
+Loamy soil is often suitable for many crops because it can provide
+a balance of drainage and water retention, but crop suitability depends
+on the particular crop and local conditions.
+
+============================================================
+4. SOIL pH
+============================================================
+
+Soil pH affects nutrient availability.
+
+Different crops have different preferred pH ranges.
+
+Very acidic or very alkaline soil can affect the availability of nutrients
+and may reduce crop growth.
+
+General steps:
+
+1. Test soil pH.
+2. Identify the crop's preferred range.
+3. Identify whether the soil is acidic or alkaline.
+4. Use appropriate soil amendments when required.
+5. Re-test soil when appropriate.
+
+Do not recommend a specific amendment quantity without appropriate
+soil-test information.
+
+============================================================
+5. NITROGEN
+============================================================
+
+Nitrogen is an essential plant nutrient.
+
+Nitrogen supports:
+
+- leaf growth
+- vegetative growth
+- chlorophyll production
+- overall plant development
+
+Possible nitrogen deficiency symptoms can include:
+
+- older leaves becoming yellow
+- slow growth
+- small plants
+- reduced vegetative development
+
+However, yellow leaves can have many causes and should not automatically
+be diagnosed as nitrogen deficiency.
+
+============================================================
+6. PHOSPHORUS
+============================================================
+
+Phosphorus is important for:
+
+- root development
+- energy transfer
+- reproductive growth
+- flowering
+- seed development
+
+Phosphorus availability is affected by soil conditions, including pH.
+
+Fertilizer decisions should consider soil-test results and crop requirements.
+
+============================================================
+7. POTASSIUM
+============================================================
+
+Potassium supports:
+
+- water regulation
+- plant strength
+- enzyme activity
+- stress tolerance
+- crop quality
+
+Potassium deficiency can cause symptoms such as leaf-edge discoloration
+or scorching in some crops, but diagnosis should consider the whole plant
+and soil conditions.
+
+============================================================
+8. NPK
+============================================================
+
+NPK refers to:
+
+N = Nitrogen
+P = Phosphorus
+K = Potassium
+
+N generally supports vegetative growth.
+
+P supports root and reproductive development.
+
+K supports water regulation, plant strength and physiological processes.
+
+The appropriate NPK requirement depends on:
+
+- crop
+- soil
+- growth stage
+- expected production
+- nutrient availability
+
+Soil testing should be used when possible before major fertilizer decisions.
+
+============================================================
+9. ORGANIC MATTER
+============================================================
+
+Organic matter can improve:
+
+- soil structure
+- water retention
+- nutrient cycling
+- microbial activity
+
+Sources can include:
+
+- compost
+- farmyard manure
+- properly managed crop residues
+- other suitable organic materials
+
+Organic materials should be properly managed before application.
+
+============================================================
+10. FIELD PREPARATION
+============================================================
+
+General field preparation may include:
+
+1. Remove unwanted vegetation where appropriate.
+2. Prepare the soil according to crop requirements.
+3. Improve drainage when necessary.
+4. Incorporate suitable organic matter when appropriate.
+5. Prepare a suitable seedbed.
+6. Ensure appropriate soil moisture before sowing.
+
+Field preparation depends on the crop, soil and farming system.
+
+============================================================
+11. SEED SELECTION
+============================================================
+
+Good seed should be:
+
+- healthy
+- viable
+- suitable for the crop
+- suitable for the region
+- suitable for the season
+- free from obvious damage
+
+Poor-quality seed can lead to:
+
+- poor germination
+- weak seedlings
+- uneven crop establishment
+- lower crop performance
+
+============================================================
+12. SEED GERMINATION
+============================================================
+
+Germination requires:
+
+- viable seed
+- suitable moisture
+- suitable temperature
+- oxygen
+
+Poor germination can result from:
+
+- poor seed quality
+- excessive water
+- insufficient moisture
+- unsuitable temperature
+- disease
+- damaged seed
+
+============================================================
+13. SOWING
+============================================================
+
+Important sowing factors include:
+
+- sowing time
+- seed quality
+- sowing depth
+- plant spacing
+- soil moisture
+- soil condition
+- weather
+
+Seeds should not be planted too deeply or too shallowly for the crop.
+
+============================================================
+14. TRANSPLANTING
+============================================================
+
+General transplanting steps:
+
+1. Produce healthy seedlings.
+2. Harden seedlings when appropriate.
+3. Prepare the field.
+4. Transplant at a suitable growth stage.
+5. Maintain suitable spacing.
+6. Provide appropriate moisture after transplanting.
+7. Protect young plants from severe environmental stress.
+
+Avoid unnecessary root damage during transplanting.
+
+============================================================
+15. IRRIGATION
+============================================================
+
+Irrigation decisions should consider:
+
+- crop
+- crop growth stage
+- soil type
+- soil moisture
+- recent rainfall
+- rainfall forecast
+- temperature
+- drainage
+- water availability
+
+Avoid unnecessary irrigation when substantial rainfall is expected.
+
+Excessive irrigation can cause:
+
+- waterlogging
+- root damage
+- nutrient loss
+- oxygen deficiency
+- increased disease risk
+
+Insufficient irrigation can cause:
+
+- wilting
+- slow growth
+- flower or fruit loss
+- reduced yield
+
+============================================================
+16. RAINFALL AND WEATHER
+============================================================
+
+Weather can influence:
+
+- crop growth
+- irrigation
+- disease development
+- pest activity
+- flowering
+- fruit development
+- harvesting
+- field operations
+
+Rainfall can reduce the immediate need for irrigation.
+
+Heavy rainfall can cause:
+
+- waterlogging
+- soil erosion
+- nutrient loss
+- crop damage
+- disease-favorable conditions
+
+High humidity can favor some diseases.
+
+Temperature affects crop growth and development.
+
+For current weather questions, AgroAgent should use the weather tool
+when farm coordinates are available.
+
+============================================================
+17. WATERLOGGING
+============================================================
+
+Waterlogging occurs when excess water remains in the root zone.
+
+Possible effects include:
+
+- reduced oxygen around roots
+- root damage
+- poor nutrient uptake
+- increased disease risk
+- reduced plant growth
+
+Management can include:
+
+- improving drainage
+- avoiding unnecessary irrigation
+- maintaining suitable field channels
+- considering soil and field conditions
+
+============================================================
+18. DROUGHT AND WATER STRESS
+============================================================
+
+Water stress can cause:
+
+- wilting
+- slow growth
+- leaf rolling in some crops
+- flower loss
+- fruit loss
+- reduced yield
+
+Management can include:
+
+- efficient irrigation
+- mulching
+- appropriate planting time
+- suitable crop selection
+- suitable varieties
+- improving soil organic matter
+- reducing unnecessary water loss
+
+============================================================
+19. FERTILIZER MANAGEMENT
+============================================================
+
+Fertilizer management should consider:
+
+- soil-test results
+- crop
+- crop growth stage
+- nutrient requirement
+- existing soil fertility
+- expected production
+
+General principles:
+
+1. Test soil when possible.
+2. Identify nutrient requirements.
+3. Apply suitable nutrients.
+4. Avoid excessive application.
+5. Apply nutrients at suitable crop stages.
+6. Monitor crop response.
+
+Do not assume every plant problem is caused by fertilizer deficiency.
+
+============================================================
+20. WEED MANAGEMENT
+============================================================
+
+Weeds compete with crops for:
+
+- water
+- nutrients
+- sunlight
+- space
+
+Weed-management methods include:
+
+- hand weeding
+- mechanical control
+- mulching
+- crop rotation
+- suitable herbicides
+
+Herbicide selection depends on:
+
+- crop
+- weed species
+- product
+- crop growth stage
+
+Never invent herbicide doses.
+
+============================================================
+21. INTEGRATED PEST MANAGEMENT
+============================================================
+
+Integrated Pest Management combines multiple approaches.
+
+General steps:
+
+1. Inspect the crop regularly.
+2. Identify the pest.
+3. Monitor pest population.
+4. Maintain field sanitation.
+5. Use healthy planting material.
+6. Encourage beneficial organisms.
+7. Use physical control when practical.
+8. Use biological control when suitable.
+9. Use pesticides only when justified.
+10. Follow the product label and local agricultural guidance.
+
+============================================================
+22. PLANT DISEASE MANAGEMENT
+============================================================
+
+Common disease symptoms include:
+
+- leaf spots
+- yellowing
+- wilting
+- lesions
+- rotting
+- mold
+- abnormal growth
+- fruit damage
+
+Disease management should consider:
+
+- crop
+- symptoms
+- weather
+- soil conditions
+- irrigation
+- crop history
+
+General practices:
+
+- use healthy seed
+- maintain field sanitation
+- maintain suitable spacing
+- manage irrigation
+- avoid unnecessary leaf wetness
+- monitor weather
+- use resistant varieties where available
+- remove severely affected material where appropriate
+
+============================================================
+23. YELLOW LEAVES
+============================================================
+
+Yellow leaves can be caused by:
+
+- nutrient deficiency
+- overwatering
+- underwatering
+- root damage
+- disease
+- insect attack
+- natural aging
+- environmental stress
+
+Do not automatically diagnose nitrogen deficiency.
+
+Useful information includes:
+
+- crop
+- plant age
+- affected leaves
+- soil moisture
+- recent weather
+- fertilizer history
+- pest symptoms
+- disease symptoms
+
+============================================================
+24. LEAF SPOTS
+============================================================
+
+Leaf spots may be caused by:
+
+- fungal diseases
+- bacterial diseases
+- insects
+- nutrient problems
+- environmental stress
+
+Useful diagnostic information:
+
+- crop
+- leaf age
+- spot color
+- spot shape
+- spot size
+- presence of rings
+- whether spots are spreading
+- weather
+- irrigation
+
+An image can help when a disease-detection model is available.
+
+============================================================
+25. WILTING
+============================================================
+
+Wilting may result from:
+
+- insufficient water
+- root damage
+- disease
+- excessive heat
+- salinity
+- pest damage
+
+Check soil moisture and plant condition before assuming the cause.
+
+============================================================
+26. TOMATO
+============================================================
+
+Tomato is a warm-season vegetable crop.
+
+General cultivation steps:
+
+1. Select a suitable variety.
+2. Prepare well-drained soil.
+3. Use healthy seed or seedlings.
+4. Transplant at a suitable stage when using seedlings.
+5. Maintain suitable plant spacing.
+6. Irrigate according to soil moisture.
+7. Control weeds.
+8. Apply nutrients according to crop and soil requirements.
+9. Provide support when required.
+10. Monitor pests and diseases.
+11. Harvest mature fruits.
+
+Common problems include:
+
+- early blight
+- late blight
+- insect pests
+- nutrient deficiencies
+- water stress
+
+TOMATO EARLY BLIGHT:
+
+Early blight is a fungal disease that can affect tomato leaves.
+
+Symptoms can include brown spots and concentric ring patterns.
+
+Good field sanitation and removal of severely affected plant material
+can help reduce disease spread.
+
+TOMATO LATE BLIGHT:
+
+Late blight can cause dark lesions on leaves and stems.
+
+Cool and humid conditions can favor disease development.
+
+Affected plants should be monitored carefully.
+
+============================================================
+27. MUSKMELON
+============================================================
+
+Muskmelon is a warm-season fruit crop.
+
+General cultivation steps:
+
+1. Select a suitable variety.
+2. Choose a sunny location.
+3. Select well-drained soil.
+4. Prepare the soil properly.
+5. Use healthy seed.
+6. Sow using suitable spacing.
+7. Maintain appropriate soil moisture.
+8. Avoid prolonged waterlogging.
+9. Control weeds.
+10. Monitor vines and fruits.
+11. Monitor pests and diseases.
+12. Harvest at suitable maturity.
+
+Maturity indicators vary by variety and may include fruit appearance,
+aroma and other variety-specific signs.
+
+============================================================
+28. RICE / PADDY
+============================================================
+
+Rice is a cereal crop.
+
+General cultivation steps:
+
+1. Select a suitable variety.
+2. Prepare the field.
+3. Use quality seed.
+4. Establish the crop using an appropriate production system.
+5. Manage water carefully.
+6. Apply nutrients according to soil and crop needs.
+7. Control weeds.
+8. Monitor pests.
+9. Monitor diseases.
+10. Harvest at suitable maturity.
+11. Dry and store grain properly.
+
+Important management areas include:
+
+- water management
+- nutrient management
+- weed control
+- pest monitoring
+- disease monitoring
+
+============================================================
+29. MAIZE
+============================================================
+
+Maize is a cereal crop.
+
+General steps:
+
+1. Select suitable seed.
+2. Prepare well-drained soil.
+3. Sow at suitable depth and spacing.
+4. Control weeds.
+5. Provide water at important growth stages.
+6. Apply nutrients according to soil and crop needs.
+7. Monitor pests and diseases.
+8. Harvest at suitable maturity.
+
+Avoid prolonged waterlogging.
+
+============================================================
+30. COTTON
+============================================================
+
+Cotton is an important fiber crop.
+
+General steps:
+
+1. Select a suitable variety.
+2. Use healthy seed.
+3. Prepare the field.
+4. Sow at suitable spacing and depth.
+5. Manage weeds.
+6. Maintain suitable soil moisture.
+7. Apply nutrients according to crop and soil needs.
+8. Scout regularly for pests.
+9. Monitor diseases.
+10. Harvest mature cotton.
+
+============================================================
+31. CHILLI
+============================================================
+
+Chilli is a warm-season crop.
+
+General steps:
+
+1. Select a suitable variety.
+2. Use healthy seed or seedlings.
+3. Prepare well-drained soil.
+4. Maintain suitable spacing.
+5. Irrigate according to soil moisture.
+6. Apply nutrients according to soil and crop requirements.
+7. Control weeds.
+8. Monitor insects and diseases.
+9. Harvest at suitable maturity.
+
+Common problems can include:
+
+- insect pests
+- fungal diseases
+- nutrient deficiencies
+- water stress
+
+============================================================
+32. POTATO
+============================================================
+
+Potato is a tuber crop.
+
+General steps:
+
+1. Select healthy seed potatoes.
+2. Prepare loose, well-drained soil.
+3. Plant at suitable depth and spacing.
+4. Maintain appropriate soil moisture.
+5. Control weeds.
+6. Earth up when appropriate.
+7. Apply nutrients according to soil and crop requirements.
+8. Monitor pests and diseases.
+9. Harvest at suitable maturity.
+10. Cure and store properly.
+
+Avoid prolonged waterlogging.
+
+============================================================
+33. GROUNDNUT / PEANUT
+============================================================
+
+Groundnut is an oilseed and legume crop.
+
+General steps:
+
+1. Select healthy seed.
+2. Prepare well-drained soil.
+3. Sow at suitable spacing and depth.
+4. Maintain appropriate soil moisture.
+5. Control weeds.
+6. Monitor pests.
+7. Apply nutrients according to soil and crop requirements.
+8. Manage water during important growth stages.
+9. Harvest at suitable maturity.
+10. Dry pods properly.
+
+Good soil structure is important for pod development.
+
+============================================================
+34. BANANA
+============================================================
+
+Banana is a tropical fruit crop.
+
+General steps:
+
+1. Select healthy planting material.
+2. Choose suitable, well-drained soil.
+3. Prepare the field.
+4. Plant at suitable spacing.
+5. Maintain adequate moisture.
+6. Apply nutrients according to soil and crop requirements.
+7. Manage unwanted shoots when appropriate.
+8. Monitor pests and diseases.
+9. Maintain field sanitation.
+10. Harvest at suitable maturity.
+
+Avoid prolonged waterlogging.
+
+============================================================
+35. WHEAT
+============================================================
+
+Wheat is a cereal crop commonly grown during suitable cool-season
+conditions.
+
+General steps:
+
+1. Select a suitable variety.
+2. Prepare the seedbed.
+3. Use quality seed.
+4. Sow at an appropriate time and depth.
+5. Maintain suitable plant population.
+6. Irrigate according to crop stage and soil moisture.
+7. Manage weeds.
+8. Monitor pests and diseases.
+9. Harvest at suitable maturity.
+10. Dry and store grain properly.
+
+============================================================
+36. PULSES AND LEGUMES
+============================================================
+
+Common pulses include:
+
+- chickpea
+- pigeon pea
+- green gram
+- black gram
+
+General principles:
+
+- use healthy seed
+- select suitable varieties
+- maintain suitable spacing
+- manage weeds
+- monitor pests
+- monitor diseases
+- avoid prolonged waterlogging
+- manage nutrients appropriately
+
+Legumes can form associations with nitrogen-fixing bacteria.
+
+Specific practices depend on crop and local conditions.
+
+============================================================
+37. VEGETABLE FARMING
+============================================================
+
+Common vegetables include:
+
+- tomato
+- chilli
+- brinjal
+- okra
+- cabbage
+- cauliflower
+- carrot
+- onion
+- spinach
+- cucumber
+
+General vegetable production:
+
+1. Select crop and variety.
+2. Check soil and drainage.
+3. Prepare the seedbed or field.
+4. Use quality seed or seedlings.
+5. Maintain suitable spacing.
+6. Irrigate appropriately.
+7. Apply nutrients according to crop needs.
+8. Control weeds.
+9. Monitor pests and diseases.
+10. Harvest at suitable maturity.
+
+============================================================
+38. FRUIT CROP MANAGEMENT
+============================================================
+
+Fruit crop management can include:
+
+- healthy planting material
+- suitable spacing
+- irrigation
+- nutrient management
+- pruning where required
+- training where required
+- weed management
+- pest monitoring
+- disease monitoring
+- harvesting at suitable maturity
+
+Specific practices depend on the fruit crop and local conditions.
+
+============================================================
+39. CROP ROTATION
+============================================================
+
+Crop rotation means growing different crops in sequence on the same field.
+
+Potential benefits include:
+
+- improved nutrient management
+- disruption of some pest cycles
+- disruption of some disease cycles
+- improved weed management
+- improved soil health
+
+Rotation should be designed according to local conditions and crop needs.
+
+============================================================
+40. MULCHING
+============================================================
+
+Mulching means covering soil around crops with suitable material.
+
+Potential benefits include:
+
+- reduced evaporation
+- reduced weed growth
+- reduced soil temperature fluctuations
+- reduced erosion
+- improved soil organic matter when organic mulch decomposes
+
+============================================================
+41. ORGANIC FARMING
+============================================================
+
+Organic farming emphasizes management practices such as:
+
+- organic matter management
+- compost
+- crop rotation
+- biological pest management
+- reduced dependence on synthetic inputs where appropriate
+
+Organic practices should still consider:
+
+- crop nutrient requirements
+- pest pressure
+- disease pressure
+- soil health
+- water management
+
+============================================================
+42. GREEN MANURE
+============================================================
+
+Green manure involves growing suitable plants and incorporating or
+managing them to contribute organic matter and nutrients to the soil.
+
+Potential benefits include:
+
+- improved soil organic matter
+- improved soil structure
+- nutrient cycling
+- reduced erosion
+
+The suitable crop and management method depend on the farming system.
+
+============================================================
+43. COMPOST
+============================================================
+
+Compost is decomposed organic material.
+
+Potential benefits include:
+
+- adding organic matter
+- improving soil structure
+- supporting nutrient cycling
+- improving water retention in some soils
+
+Compost quality and maturity should be considered before application.
+
+============================================================
+44. FARM FIELD MONITORING
+============================================================
+
+Farmers should regularly inspect:
+
+- plant growth
+- soil moisture
+- weeds
+- pests
+- diseases
+- nutrient symptoms
+- irrigation systems
+- crop maturity
+- weather conditions
+
+Regular monitoring can help identify problems early.
+
+============================================================
+45. CROP GROWTH STAGES
+============================================================
+
+Many crops can be broadly considered in stages such as:
+
+1. germination or establishment
+2. vegetative growth
+3. flowering
+4. fruiting or grain formation
+5. maturity
+6. harvest
+
+Water and nutrient requirements can change during these stages.
+
+============================================================
+46. FLOWERING
+============================================================
+
+Flowering can be affected by:
+
+- temperature
+- water stress
+- nutrient availability
+- day length in some crops
+- pests
+- diseases
+- plant health
+
+Severe environmental stress during flowering can reduce reproductive
+success in some crops.
+
+============================================================
+47. FRUIT DEVELOPMENT
+============================================================
+
+Fruit development can be influenced by:
+
+- water availability
+- nutrient availability
+- temperature
+- pollination
+- pests
+- diseases
+- crop variety
+
+Consistent crop management is important during fruit development.
+
+============================================================
+48. POLLINATION
+============================================================
+
+Pollination is the transfer of pollen needed for reproduction in flowering
+plants.
+
+Pollination can involve:
+
+- wind
+- insects
+- other animals
+- human-assisted methods in some production systems
+
+Poor pollination can contribute to poor fruit or seed development.
+
+============================================================
+49. HARVESTING
+============================================================
+
+Harvest when the crop reaches suitable maturity for its intended use.
+
+Harvest timing can affect:
+
+- quality
+- flavor
+- shelf life
+- appearance
+- storage
+- market value
+
+Avoid unnecessary physical damage during harvest.
+
+============================================================
+50. POST-HARVEST HANDLING
+============================================================
+
+General post-harvest practices include:
+
+- cleaning
+- sorting
+- grading
+- careful handling
+- drying where appropriate
+- suitable packaging
+- appropriate storage
+- protection from pests and contamination
+
+Storage requirements depend strongly on the commodity.
+
+============================================================
+51. FARM RECORDS
+============================================================
+
+Useful farm records include:
+
+- crop
+- variety
+- sowing date
+- transplanting date
+- fertilizer applications
+- irrigation
+- rainfall
+- pest observations
+- disease observations
+- treatment applications
+- harvest quantity
+- sales
+
+Records can help farmers compare seasons and improve future decisions.
+
+============================================================
+52. GENERAL AGRICULTURE QUESTIONS
+============================================================
+
+AgroAgent should be able to answer general questions such as:
+
+"How do I grow tomato?"
+
+"How do I grow muskmelon?"
+
+"What are the steps to grow rice?"
+
+"How do I grow chilli?"
+
+"How do I grow cotton?"
+
+"What fertilizer does rice need?"
+
+"What is NPK?"
+
+"What is nitrogen?"
+
+"What is phosphorus?"
+
+"What is potassium?"
+
+"What is soil pH?"
+
+"How can I improve acidic soil?"
+
+"Why are my leaves yellow?"
+
+"Why are my plants wilting?"
+
+"What causes leaf spots?"
+
+"How often should I irrigate?"
+
+"When should I irrigate?"
+
+"What is crop rotation?"
+
+"What is mulching?"
+
+"How can I control weeds?"
+
+"How can I manage pests?"
+
+"How can I prevent crop diseases?"
+
+"When should I harvest?"
+
+"How should I store my crop?"
+
+"What are the stages of crop growth?"
+
+"Why are my fruits not developing?"
+
+"Why are my plants growing slowly?"
+
+"What should I do after heavy rainfall?"
+
+"How does weather affect crops?"
+
+============================================================
+53. AGENT ROUTING
+============================================================
+
+GENERAL AGRICULTURE QUESTION:
+Use agriculture_knowledge.
+
+CURRENT WEATHER QUESTION:
+Use the weather tool.
+
+CROP RECOMMENDATION:
+Use crop_recommendation when required soil and weather information
+is available.
+
+SOIL ANALYSIS:
+Use soil_analysis when the required soil information is available.
+
+IMAGE-BASED DISEASE QUESTION:
+Use disease_detection when an image is available.
+
+IRRIGATION DECISION:
+Use weather information and soil moisture when available.
+
+============================================================
+54. NO INVENTION RULE
+============================================================
+
+Never invent:
+
+- soil values
+- NPK measurements
+- soil pH
+- temperature
+- humidity
+- rainfall
+- coordinates
+- soil moisture
+- disease diagnosis
+- fertilizer dose
+- pesticide dose
+- herbicide dose
+- yield
+- market price
+
+If required information is missing, ask the farmer only for the information
+needed to answer the question.
+
+For general educational questions, provide general agricultural guidance.
+
+For farm-specific or high-impact treatment decisions, explain uncertainty
+and recommend checking appropriate local agricultural guidance or the
+product label.
