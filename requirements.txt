@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+bcrypt
+python-jose[cryptography]
+pydantic
+google-genai
+langgraph
+langchain
+faiss-cpu
+numpy
+sentence-transformers
+scikit-learn
+torch
+pandas
+requests
+python-multipar
