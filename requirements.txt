@@ -14,4 +14,4 @@ scikit-learn
 torch
 pandas
 requests
-python-multipar
+python-multipart
